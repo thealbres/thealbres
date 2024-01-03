@@ -23,7 +23,7 @@ Here are some of the technologies I enjoy working with:
 ## What am I up to recently?
 
 - 🖱️ I am improving my code while studying Go! 
-- 🏄 Grasping the oceon of knowlegde about Software Achitecture.
+- 🏄 Grasping the ocean of knowlegde about Software Achitecture.
 - 🏗️ Improving what I know about high throughput application, as well as building those.
 - 😙 Trying to come up with a muilt billion start up ideia (maybe a Uber like stuff) _just kidding_.
 
