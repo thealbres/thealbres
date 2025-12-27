@@ -7,7 +7,7 @@ I'm Vitor, a passionate Software Engineer creating amazing things at Stone Co. a
 ## About Me
 
 - 🎓 I have a degree in Computer Engineering.
-- 💼 I'm employed at Stone Co, working full time as a Software Engineer. Currently stuck in Neovim ...
+- 💼 I'm employed at iFood, working full time as a Software Engineer.
 - 🌱 I'm always eager to learn and explore new technologies and ideas.
 - 📚 In my free time, I love reading manga, watching anime, coding, and trying to stay on feet in Judo.
 
